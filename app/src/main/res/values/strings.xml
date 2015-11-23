@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ButtonExercise</string>
+    <string name="togl_button_msg">Toggle Button Examples</string>
+    <string name="radio_button_msg">Select a radio button</string>
+    <string name="radio_button_1">Radio Option 1</string>
+    <string name="radio_button_2">Radio Option 2</string>
+    <string name="radio_button_3">Radio Option 3</string>
+    <string name="clear_msg">Clear</string>
+    <string name="submit_msg">Submit</string>
+    <string name="off_msg">Toggle Off</string>
+    <string name="on_msg">Toggle On</string>
+    <string name="switch_button_msg">This is Switch(Android 4.0 above)</string>
+    <string name="switch_off_msg">Switch Off</string>
+    <string name="switch_on_msg">Switch On</string>
+</resources>
